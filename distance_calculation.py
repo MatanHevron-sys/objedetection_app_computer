@@ -34,7 +34,7 @@ class DistanceCalculation:
         :param left_image: Dictionary containing 'img_center_x', 'obj_center_x', 'angle_of_view_x'.
         :param right_image: Dictionary containing 'img_center_x', 'obj_center_x', 'angle_of_view_x'.
         :return: Dictionary containing 'distance' and 'details'.
-        """
+        """ 
         try:
             # Extract parameters from left and right images
             img_center_left_x = left_image['img_center_x']

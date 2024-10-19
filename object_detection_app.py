@@ -1,5 +1,5 @@
 # object_detection_app.py
-
+ 
 import os
 import tkinter as tk
 from object_detection_yolov5 import ObjectDetectionYOLOv5
@@ -21,7 +21,6 @@ def main():
     )
 
     logging.info("Application started.")
-
 
     # Initialize object detection
     try:

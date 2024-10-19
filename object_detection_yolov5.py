@@ -1,5 +1,5 @@
 # object_detection_yolov5.py
-
+ 
 import torch
 import logging
 import cv2
