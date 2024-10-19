@@ -1,0 +1,546 @@
+2024-10-18 18:03:03,609 - INFO - Application started.
+2024-10-18 18:03:16,754 - INFO - yolov5s model loaded successfully.
+2024-10-18 18:04:27,719 - INFO - Processing image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/left.jpg
+2024-10-18 18:04:27,719 - ERROR - Error processing images: name 'cv2' is not defined
+2024-10-18 18:04:39,540 - INFO - Application closed.
+2024-10-18 18:05:14,882 - INFO - Application started.
+2024-10-18 18:05:23,785 - INFO - yolov5s model loaded successfully.
+2024-10-18 18:05:56,066 - INFO - Processing image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/left.jpg
+2024-10-18 18:05:56,320 - INFO - Saved detected image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left\detected_images\detected_left.jpg
+2024-10-18 18:05:56,334 - INFO - Processing image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/right.jpg
+2024-10-18 18:05:56,369 - INFO - Saved detected image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left\detected_images\detected_right.jpg
+2024-10-18 18:06:17,534 - INFO - Application closed.
+2024-10-18 18:29:12,164 - INFO - Application started.
+2024-10-18 18:29:20,823 - INFO - yolov5s model loaded successfully.
+2024-10-18 18:29:34,879 - INFO - Processing image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/left.jpg
+2024-10-18 18:29:35,001 - INFO - Saved detected image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right\detected_images\detected_left.jpg
+2024-10-18 18:29:35,001 - INFO - Processing image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/right.jpg
+2024-10-18 18:29:35,064 - INFO - Saved detected image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right\detected_images\detected_right.jpg
+2024-10-18 18:29:54,645 - INFO - Application closed.
+2024-10-18 21:01:53,173 - INFO - Application started.
+2024-10-18 21:02:02,296 - INFO - yolov5s model loaded successfully.
+2024-10-18 21:02:24,098 - INFO - Processing image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-18 21:02:24,284 - INFO - Saved detected image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-18 21:02:24,284 - ERROR - Error processing images: float division by zero
+2024-10-18 21:02:28,820 - INFO - Application closed.
+2024-10-18 21:09:02,252 - INFO - Application started.
+2024-10-18 21:09:11,332 - INFO - yolov5s model loaded successfully.
+2024-10-18 21:09:21,590 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-18 21:09:21,590 - INFO - Processing image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-18 21:09:21,792 - INFO - Saved detected image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-18 21:09:21,800 - ERROR - Error during image processing: float division by zero
+2024-10-18 21:09:47,904 - INFO - Application closed.
+2024-10-18 21:13:27,284 - INFO - Application started.
+2024-10-18 21:13:36,160 - INFO - yolov5s model loaded successfully.
+2024-10-18 21:13:58,858 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-18 21:13:58,858 - INFO - Processing image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-18 21:13:59,075 - INFO - Saved detected image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-18 21:13:59,077 - ERROR - Error during image processing: float division by zero
+2024-10-18 21:14:35,781 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/right.jpg')
+2024-10-18 21:14:35,781 - INFO - Processing image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/left.jpg
+2024-10-18 21:14:35,984 - INFO - Saved detected image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right\detected_images\detected_left.jpg
+2024-10-18 21:14:35,984 - ERROR - Error during image processing: float division by zero
+2024-10-18 21:14:43,506 - INFO - Application closed.
+2024-10-18 21:15:38,027 - INFO - Application started.
+2024-10-18 21:15:47,412 - INFO - yolov5s model loaded successfully.
+2024-10-18 21:15:58,214 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-18 21:15:58,214 - INFO - Processing image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-18 21:15:58,465 - INFO - Saved detected image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-18 21:15:58,465 - ERROR - Error during image processing: float division by zero
+2024-10-18 21:16:01,364 - INFO - Application closed.
+2024-10-18 21:19:35,739 - INFO - Application started.
+2024-10-18 21:19:44,987 - INFO - yolov5s model loaded successfully.
+2024-10-18 21:19:54,762 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-18 21:19:54,762 - INFO - Processing image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-18 21:19:55,012 - INFO - Saved detected image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-18 21:19:55,012 - ERROR - Error during image processing: float division by zero
+2024-10-18 21:19:57,327 - INFO - Application closed.
+2024-10-19 10:35:43,267 - INFO - Application started.
+2024-10-19 10:35:52,700 - INFO - yolov5s model loaded successfully.
+2024-10-19 10:36:16,058 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/detected_left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/detected_right.jpg')
+2024-10-19 10:36:16,058 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/detected_left.jpg
+2024-10-19 10:36:16,058 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/detected_right.jpg
+2024-10-19 10:36:16,343 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_detected_left.jpg
+2024-10-19 10:36:16,343 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_detected_right.jpg
+2024-10-19 10:36:16,343 - WARNING - Number of detected objects in left and right images do not match or are not equal to 1.
+2024-10-19 10:36:16,343 - WARNING - Unable to calculate distance due to multiple or unmatched detections.
+2024-10-19 10:36:16,343 - INFO - Image processing complete.
+2024-10-19 10:36:48,352 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 10:36:48,352 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 10:36:48,352 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 10:36:48,606 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 10:36:48,606 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 10:36:48,606 - INFO - Distance to the object: 2.60 meters (Object is between the cameras.)
+2024-10-19 10:36:48,606 - INFO - Image processing complete.
+2024-10-19 10:40:08,536 - INFO - Application closed.
+2024-10-19 10:40:40,476 - INFO - Application started.
+2024-10-19 10:40:49,760 - INFO - yolov5s model loaded successfully.
+2024-10-19 10:40:58,882 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 10:40:58,882 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 10:40:58,882 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 10:40:59,127 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 10:40:59,127 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 10:40:59,137 - INFO - Distance to the object: 1.05 meters (Object is between the cameras.)
+2024-10-19 10:40:59,137 - INFO - Image processing complete.
+2024-10-19 10:41:22,007 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/right.jpg')
+2024-10-19 10:41:22,007 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/left.jpg
+2024-10-19 10:41:22,007 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/right.jpg
+2024-10-19 10:41:22,192 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right\detected_images\detected_left.jpg
+2024-10-19 10:41:22,192 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right\detected_images\detected_right.jpg
+2024-10-19 10:41:22,208 - INFO - Distance to the object: 0.96 meters (Object is to the right of the right camera.)
+2024-10-19 10:41:22,208 - INFO - Image processing complete.
+2024-10-19 10:41:36,697 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/right.jpg')
+2024-10-19 10:41:36,697 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/left.jpg
+2024-10-19 10:41:36,697 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/right.jpg
+2024-10-19 10:41:36,898 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left\detected_images\detected_left.jpg
+2024-10-19 10:41:36,898 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left\detected_images\detected_right.jpg
+2024-10-19 10:41:36,913 - INFO - Distance to the object: 1.07 meters (Object is to the left of the left camera.)
+2024-10-19 10:41:36,913 - INFO - Image processing complete.
+2024-10-19 10:43:47,566 - INFO - Application closed.
+2024-10-19 11:39:56,927 - INFO - Application started.
+2024-10-19 11:40:06,258 - INFO - yolov5s model loaded successfully.
+2024-10-19 11:40:19,714 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 11:40:19,714 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 11:40:19,714 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 11:40:19,920 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 11:40:19,920 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 11:40:19,929 - INFO - Distance to the object: 1.06 meters (Object is between the cameras.)
+2024-10-19 11:40:19,929 - INFO - Image processing complete.
+2024-10-19 11:41:03,626 - INFO - Application closed.
+2024-10-19 11:42:49,485 - INFO - Application started.
+2024-10-19 11:42:59,105 - INFO - yolov5s model loaded successfully.
+2024-10-19 11:43:58,855 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 11:43:58,855 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 11:43:58,855 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 11:43:59,083 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 11:43:59,083 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 11:43:59,090 - INFO - Distance to the object: 1.06 meters (Object is between the cameras.)
+2024-10-19 11:43:59,090 - INFO - Image processing complete.
+2024-10-19 11:45:49,788 - INFO - Application started.
+2024-10-19 11:45:59,098 - INFO - yolov5s model loaded successfully.
+2024-10-19 11:46:09,095 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 11:46:09,095 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 11:46:09,095 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 11:46:09,400 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 11:46:09,400 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 11:46:09,410 - INFO - Distance to the object: 1.06 meters (Object is between the cameras.)
+2024-10-19 11:46:09,410 - INFO - Image processing complete.
+2024-10-19 11:46:15,223 - INFO - Application closed.
+2024-10-19 12:04:20,742 - INFO - Application started.
+2024-10-19 12:04:29,447 - INFO - yolov5s model loaded successfully.
+2024-10-19 12:04:39,047 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 12:04:39,047 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 12:04:39,047 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 12:04:39,333 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 12:04:39,333 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 12:04:39,348 - INFO - Distance to the object: 1.06 meters (Object is between the cameras.)
+2024-10-19 12:04:39,348 - INFO - Image processing complete.
+2024-10-19 12:04:51,294 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/right.jpg')
+2024-10-19 12:04:51,294 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/left.jpg
+2024-10-19 12:04:51,294 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/right.jpg
+2024-10-19 12:04:51,541 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left\detected_images\detected_left.jpg
+2024-10-19 12:04:51,541 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left\detected_images\detected_right.jpg
+2024-10-19 12:04:51,548 - INFO - Distance to the object: 1.08 meters (Object is to the left of the left camera.)
+2024-10-19 12:04:51,548 - INFO - Image processing complete.
+2024-10-19 12:05:01,385 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/right.jpg')
+2024-10-19 12:05:01,390 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/left.jpg
+2024-10-19 12:05:01,393 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/right.jpg
+2024-10-19 12:05:01,579 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right\detected_images\detected_left.jpg
+2024-10-19 12:05:01,579 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right\detected_images\detected_right.jpg
+2024-10-19 12:05:01,585 - INFO - Distance to the object: 0.97 meters (Object is to the right of the right camera.)
+2024-10-19 12:05:01,585 - INFO - Image processing complete.
+2024-10-19 12:05:03,108 - INFO - Application closed.
+2024-10-19 12:45:24,099 - INFO - Application started.
+2024-10-19 12:45:33,687 - INFO - yolov5s model loaded successfully.
+2024-10-19 12:45:50,896 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 12:45:50,896 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 12:45:50,896 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 12:45:51,097 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 12:45:51,097 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 12:45:51,112 - INFO - Distance to the object: 1.06 meters (Object is between the cameras.)
+2024-10-19 12:45:51,112 - INFO - Image processing complete.
+2024-10-19 12:47:39,173 - INFO - Application closed.
+2024-10-19 12:49:55,838 - INFO - Application started.
+2024-10-19 12:50:04,632 - INFO - yolov5s model loaded successfully.
+2024-10-19 12:50:18,336 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 12:50:18,336 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 12:50:18,336 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 12:50:18,654 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 12:50:18,654 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 12:50:18,662 - INFO - Distance to the object: 1.06 meters (Object is between the cameras.)
+2024-10-19 12:50:18,672 - INFO - Image processing complete.
+2024-10-19 13:00:02,679 - INFO - Application started.
+2024-10-19 13:00:12,564 - INFO - yolov5s model loaded successfully.
+2024-10-19 13:00:29,793 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 13:00:29,793 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 13:00:29,793 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 13:00:30,088 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 13:00:30,088 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 13:00:30,098 - INFO - Distance to the object: 1.32 meters (Object is between the cameras.)
+2024-10-19 13:00:30,098 - INFO - Image processing complete.
+2024-10-19 13:00:51,026 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/right.jpg')
+2024-10-19 13:00:51,026 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/left.jpg
+2024-10-19 13:00:51,026 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/right.jpg
+2024-10-19 13:00:51,313 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left\detected_images\detected_left.jpg
+2024-10-19 13:00:51,313 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left\detected_images\detected_right.jpg
+2024-10-19 13:00:51,321 - INFO - Distance to the object: 1.34 meters (Object is to the left of the left camera.)
+2024-10-19 13:00:51,321 - INFO - Image processing complete.
+2024-10-19 13:01:00,158 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/right.jpg')
+2024-10-19 13:01:00,158 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/left.jpg
+2024-10-19 13:01:00,164 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/right.jpg
+2024-10-19 13:01:00,342 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right\detected_images\detected_left.jpg
+2024-10-19 13:01:00,342 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right\detected_images\detected_right.jpg
+2024-10-19 13:01:00,358 - INFO - Distance to the object: 1.21 meters (Object is to the right of the right camera.)
+2024-10-19 13:01:00,358 - INFO - Image processing complete.
+2024-10-19 13:01:25,901 - INFO - Application closed.
+2024-10-19 13:05:37,727 - INFO - Application started.
+2024-10-19 13:05:46,495 - INFO - yolov5s model loaded successfully.
+2024-10-19 13:05:56,748 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 13:05:56,748 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 13:05:56,748 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 13:05:57,002 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 13:05:57,002 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 13:05:57,018 - INFO - Distance to the object: 1.32 meters (Object is between the cameras.)
+2024-10-19 13:05:57,018 - INFO - Image processing complete.
+2024-10-19 13:06:07,441 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/right.jpg')
+2024-10-19 13:06:07,441 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/left.jpg
+2024-10-19 13:06:07,441 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/right.jpg
+2024-10-19 13:06:07,709 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left\detected_images\detected_left.jpg
+2024-10-19 13:06:07,709 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left\detected_images\detected_right.jpg
+2024-10-19 13:06:07,718 - INFO - Distance to the object: 1.34 meters (Object is to the left of the left camera.)
+2024-10-19 13:06:07,718 - INFO - Image processing complete.
+2024-10-19 13:06:32,469 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/right.jpg')
+2024-10-19 13:06:32,469 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/left.jpg
+2024-10-19 13:06:32,469 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/right.jpg
+2024-10-19 13:06:32,760 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right\detected_images\detected_left.jpg
+2024-10-19 13:06:32,760 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right\detected_images\detected_right.jpg
+2024-10-19 13:06:32,776 - INFO - Distance to the object: 1.21 meters (Object is to the right of the right camera.)
+2024-10-19 13:06:32,776 - INFO - Image processing complete.
+2024-10-19 13:06:42,056 - INFO - Application closed.
+2024-10-19 14:28:54,302 - INFO - Application started.
+2024-10-19 14:29:04,162 - INFO - yolov5s model loaded successfully.
+2024-10-19 14:29:15,103 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 14:29:15,103 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 14:29:15,103 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 14:29:15,351 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 14:29:15,351 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 14:29:15,393 - INFO - Distance to the object: 2.65 meters (Object is between the cameras.)
+2024-10-19 14:29:15,404 - INFO - Image processing complete.
+2024-10-19 14:31:06,207 - INFO - Application closed.
+2024-10-19 14:31:28,371 - INFO - Application started.
+2024-10-19 14:31:37,606 - INFO - yolov5s model loaded successfully.
+2024-10-19 14:31:45,032 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 14:31:45,032 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 14:31:45,039 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 14:31:45,255 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 14:31:45,255 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 14:31:45,302 - INFO - Distance to the object: 2.65 meters (Object is between the cameras.)
+2024-10-19 14:31:45,302 - INFO - Image processing complete.
+2024-10-19 14:32:59,252 - INFO - Application closed.
+2024-10-19 14:33:03,799 - INFO - Application started.
+2024-10-19 14:33:13,505 - INFO - yolov5s model loaded successfully.
+2024-10-19 14:33:27,902 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 14:33:27,902 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 14:33:27,902 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 14:33:28,225 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 14:33:28,225 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 14:33:28,256 - INFO - Distance to the object: 2.65 meters (Object is between the cameras.)
+2024-10-19 14:33:28,256 - INFO - Image processing complete.
+2024-10-19 14:33:47,754 - INFO - Application closed.
+2024-10-19 14:36:24,445 - INFO - Application started.
+2024-10-19 14:36:36,560 - INFO - yolov5s model loaded successfully.
+2024-10-19 14:36:51,637 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 14:36:51,639 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 14:36:51,639 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 14:36:51,951 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 14:36:51,951 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 14:36:51,981 - INFO - Distance to the object: 2.65 meters (Object is between the cameras.)
+2024-10-19 14:36:51,981 - INFO - Image processing complete.
+2024-10-19 14:36:55,193 - INFO - Application closed.
+2024-10-19 14:39:11,183 - INFO - Application started.
+2024-10-19 14:39:20,801 - INFO - yolov5s model loaded successfully.
+2024-10-19 14:39:33,956 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 14:39:33,956 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 14:39:33,956 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 14:39:34,162 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 14:39:34,162 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 14:39:34,200 - INFO - Distance to the object: 2.65 meters (Object is between the cameras.)
+2024-10-19 14:39:34,200 - INFO - Image processing complete.
+2024-10-19 14:39:35,852 - INFO - Application closed.
+2024-10-19 14:53:01,965 - INFO - Application started.
+2024-10-19 14:53:11,685 - INFO - yolov5s model loaded successfully.
+2024-10-19 14:53:21,925 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 14:53:21,925 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 14:53:21,925 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 14:53:21,925 - INFO - Left image resolution: 640x480
+2024-10-19 14:53:21,925 - INFO - Right image resolution: 640x480
+2024-10-19 14:53:22,154 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 14:53:22,154 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 14:53:22,186 - INFO - Distance to the object: 2.65 meters (Object is between the cameras.)
+2024-10-19 14:53:22,186 - INFO - Image processing complete.
+2024-10-19 14:53:33,146 - INFO - Application closed.
+2024-10-19 14:53:46,087 - INFO - Application started.
+2024-10-19 14:53:54,823 - INFO - yolov5s model loaded successfully.
+2024-10-19 14:56:32,634 - INFO - Application closed.
+2024-10-19 14:56:37,513 - INFO - Application started.
+2024-10-19 14:56:46,442 - INFO - yolov5s model loaded successfully.
+2024-10-19 14:57:02,162 - INFO - Application closed.
+2024-10-19 14:57:17,294 - INFO - Application started.
+2024-10-19 14:57:26,282 - INFO - yolov5s model loaded successfully.
+2024-10-19 14:58:01,463 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 14:58:01,463 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 14:58:01,463 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 14:58:01,463 - INFO - Left image resolution: 640x480
+2024-10-19 14:58:01,463 - INFO - Right image resolution: 640x480
+2024-10-19 14:58:01,716 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 14:58:01,716 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 14:58:01,747 - INFO - Distance to the object: 2.65 meters (Object is between the cameras.)
+2024-10-19 14:58:01,747 - INFO - Image processing complete.
+2024-10-19 15:03:56,393 - INFO - Application closed.
+2024-10-19 15:04:22,723 - INFO - Application started.
+2024-10-19 15:04:31,473 - INFO - yolov5s model loaded successfully.
+2024-10-19 15:04:41,336 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 15:04:41,336 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 15:04:41,352 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 15:04:41,352 - INFO - Left image resolution: 640x480
+2024-10-19 15:04:41,352 - INFO - Right image resolution: 640x480
+2024-10-19 15:04:41,552 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 15:04:41,552 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 15:04:41,590 - INFO - Distance to the object: 1.06 meters (Object is between the cameras.)
+2024-10-19 15:04:41,590 - INFO - Image processing complete.
+2024-10-19 15:06:03,241 - INFO - Application started.
+2024-10-19 15:06:13,157 - INFO - yolov5s model loaded successfully.
+2024-10-19 15:06:27,039 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 15:06:27,039 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 15:06:27,039 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 15:06:27,039 - INFO - Left image resolution: 640x480
+2024-10-19 15:06:27,039 - INFO - Right image resolution: 640x480
+2024-10-19 15:06:27,327 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 15:06:27,327 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 15:06:27,358 - INFO - Distance to the object: 1.10 meters (Object is between the cameras.)
+2024-10-19 15:06:27,358 - INFO - Image processing complete.
+2024-10-19 15:07:05,031 - INFO - Application closed.
+2024-10-19 15:07:20,270 - INFO - Application started.
+2024-10-19 15:07:29,165 - INFO - yolov5s model loaded successfully.
+2024-10-19 15:07:37,062 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 15:07:37,064 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 15:07:37,069 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 15:07:37,072 - INFO - Left image resolution: 640x480
+2024-10-19 15:07:37,072 - INFO - Right image resolution: 640x480
+2024-10-19 15:07:37,237 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 15:07:37,237 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 15:07:37,269 - INFO - Distance to the object: 1.14 meters (Object is between the cameras.)
+2024-10-19 15:07:37,269 - INFO - Image processing complete.
+2024-10-19 15:07:56,703 - INFO - Application closed.
+2024-10-19 15:27:10,792 - INFO - Application started.
+2024-10-19 15:27:19,951 - INFO - yolov5s model loaded successfully.
+2024-10-19 15:28:19,934 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 15:28:19,934 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 15:28:19,950 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 15:28:19,950 - INFO - Left image resolution: 640x480
+2024-10-19 15:28:19,950 - INFO - Right image resolution: 640x480
+2024-10-19 15:28:20,251 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 15:28:20,251 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 15:28:20,282 - INFO - Distance to the object: 1.10 meters (Object is between the cameras.)
+2024-10-19 15:28:20,282 - INFO - Image processing complete.
+2024-10-19 15:29:03,057 - INFO - Application closed.
+2024-10-19 15:31:05,895 - INFO - Application started.
+2024-10-19 15:31:14,655 - INFO - yolov5s model loaded successfully.
+2024-10-19 15:31:42,556 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 15:31:42,563 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 15:31:42,567 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 15:31:42,567 - INFO - Left image resolution: 640x480
+2024-10-19 15:31:42,567 - INFO - Right image resolution: 640x480
+2024-10-19 15:31:42,819 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 15:31:42,819 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 15:31:42,850 - INFO - Distance to the object: 1.10 meters (Object is between the cameras.)
+2024-10-19 15:31:42,850 - INFO - Image processing complete.
+2024-10-19 15:32:55,041 - INFO - Application closed.
+2024-10-19 15:33:01,770 - INFO - Application started.
+2024-10-19 15:33:11,242 - INFO - yolov5s model loaded successfully.
+2024-10-19 15:33:18,933 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 15:33:18,933 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 15:33:18,933 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 15:33:18,933 - INFO - Left image resolution: 640x480
+2024-10-19 15:33:18,933 - INFO - Right image resolution: 640x480
+2024-10-19 15:33:19,138 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 15:33:19,138 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 15:33:19,163 - INFO - Distance to the object: 1.10 meters (Object is between the cameras.)
+2024-10-19 15:33:19,163 - INFO - Image processing complete.
+2024-10-19 15:33:36,825 - INFO - Application closed.
+2024-10-19 17:01:21,955 - INFO - Application started.
+2024-10-19 17:01:31,240 - INFO - yolov5s model loaded successfully.
+2024-10-19 17:01:41,041 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 17:01:41,041 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 17:01:41,041 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 17:01:41,041 - INFO - Left image resolution: 640x480
+2024-10-19 17:01:41,041 - INFO - Right image resolution: 640x480
+2024-10-19 17:01:41,041 - ERROR - Error during image processing: cannot access local variable 'distance_calculator' where it is not associated with a value
+2024-10-19 17:01:59,253 - INFO - Application closed.
+2024-10-19 17:02:23,938 - INFO - Application started.
+2024-10-19 17:02:32,937 - INFO - yolov5s model loaded successfully.
+2024-10-19 17:02:39,729 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 17:02:39,729 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 17:02:39,729 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 17:02:39,729 - INFO - Left image resolution: 640x480
+2024-10-19 17:02:39,729 - INFO - Right image resolution: 640x480
+2024-10-19 17:02:39,945 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 17:02:39,945 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 17:02:39,983 - INFO - Distance to the object: 1.16 meters (Object is between the cameras.)
+2024-10-19 17:02:39,983 - INFO - Image processing complete.
+2024-10-19 17:03:13,323 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/right.jpg')
+2024-10-19 17:03:13,323 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/left.jpg
+2024-10-19 17:03:13,323 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/right.jpg
+2024-10-19 17:03:13,323 - INFO - Left image resolution: 636x476
+2024-10-19 17:03:13,323 - INFO - Right image resolution: 640x480
+2024-10-19 17:03:13,534 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left\detected_images\detected_left.jpg
+2024-10-19 17:03:13,534 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left\detected_images\detected_right.jpg
+2024-10-19 17:03:13,552 - INFO - Distance to the object: 1.18 meters (Object is to the left of the left camera.)
+2024-10-19 17:03:13,552 - INFO - Image processing complete.
+2024-10-19 17:03:36,711 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/right.jpg')
+2024-10-19 17:03:36,714 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/left.jpg
+2024-10-19 17:03:36,714 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/right.jpg
+2024-10-19 17:03:36,714 - INFO - Left image resolution: 640x480
+2024-10-19 17:03:36,714 - INFO - Right image resolution: 640x480
+2024-10-19 17:03:36,990 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right\detected_images\detected_left.jpg
+2024-10-19 17:03:36,990 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right\detected_images\detected_right.jpg
+2024-10-19 17:03:37,011 - INFO - Distance to the object: 1.07 meters (Object is to the right of the right camera.)
+2024-10-19 17:03:37,011 - INFO - Image processing complete.
+2024-10-19 17:03:47,771 - INFO - Application closed.
+2024-10-19 17:16:26,779 - INFO - Application started.
+2024-10-19 17:16:35,811 - INFO - yolov5s model loaded successfully.
+2024-10-19 17:16:43,641 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 17:16:43,641 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 17:16:43,647 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 17:16:43,647 - INFO - Left image resolution: 640x480
+2024-10-19 17:16:43,647 - INFO - Right image resolution: 640x480
+2024-10-19 17:16:43,864 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 17:16:43,864 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 17:16:43,895 - INFO - Distance to the object: 1.16 meters (Object is between the cameras.)
+2024-10-19 17:16:43,895 - INFO - Image processing complete.
+2024-10-19 17:17:07,731 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/right.jpg')
+2024-10-19 17:17:07,731 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/left.jpg
+2024-10-19 17:17:07,737 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left/right.jpg
+2024-10-19 17:17:07,737 - INFO - Left image resolution: 636x476
+2024-10-19 17:17:07,737 - INFO - Right image resolution: 640x480
+2024-10-19 17:17:07,954 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left\detected_images\detected_left.jpg
+2024-10-19 17:17:07,954 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_left_to_cam_left\detected_images\detected_right.jpg
+2024-10-19 17:17:07,985 - INFO - Distance to the object: 1.18 meters (Object is to the left of the left camera.)
+2024-10-19 17:17:07,985 - INFO - Image processing complete.
+2024-10-19 17:17:56,384 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/right.jpg')
+2024-10-19 17:17:56,384 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/left.jpg
+2024-10-19 17:17:56,384 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right/right.jpg
+2024-10-19 17:17:56,384 - INFO - Left image resolution: 640x480
+2024-10-19 17:17:56,384 - INFO - Right image resolution: 640x480
+2024-10-19 17:17:56,672 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right\detected_images\detected_left.jpg
+2024-10-19 17:17:56,672 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_right_to_cam_right\detected_images\detected_right.jpg
+2024-10-19 17:17:56,688 - INFO - Distance to the object: 1.07 meters (Object is to the right of the right camera.)
+2024-10-19 17:17:56,688 - INFO - Image processing complete.
+2024-10-19 17:18:02,191 - INFO - Application closed.
+2024-10-19 19:28:57,146 - INFO - Application started.
+2024-10-19 19:29:06,112 - INFO - yolov5s model loaded successfully.
+2024-10-19 19:29:20,339 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 19:29:20,339 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 19:29:20,339 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 19:29:20,339 - INFO - Left image resolution: 640x480
+2024-10-19 19:29:20,339 - INFO - Right image resolution: 640x480
+2024-10-19 19:29:20,555 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 19:29:20,555 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 19:29:20,740 - WARNING - Distance to the object: Undefined (Invalid internal angles leading to degenerate triangle.)
+2024-10-19 19:29:20,740 - INFO - Image processing complete.
+2024-10-19 19:29:36,360 - INFO - Application closed.
+2024-10-19 19:31:28,093 - INFO - Application started.
+2024-10-19 19:31:36,637 - INFO - yolov5s model loaded successfully.
+2024-10-19 19:31:44,042 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 19:31:44,042 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 19:31:44,042 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 19:31:44,042 - INFO - Left image resolution: 640x480
+2024-10-19 19:31:44,042 - INFO - Right image resolution: 640x480
+2024-10-19 19:31:44,258 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 19:31:44,258 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 19:31:44,296 - INFO - Distance to the object: 1.16 meters (Object is between the cameras.)
+2024-10-19 19:31:44,296 - INFO - Image processing complete.
+2024-10-19 19:31:48,593 - INFO - Application closed.
+2024-10-19 19:33:30,868 - INFO - Application started.
+2024-10-19 19:33:39,404 - INFO - yolov5s model loaded successfully.
+2024-10-19 19:33:47,957 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 19:33:47,957 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 19:33:47,957 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 19:33:47,957 - INFO - Left image resolution: 640x480
+2024-10-19 19:33:47,957 - INFO - Right image resolution: 640x480
+2024-10-19 19:33:48,181 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 19:33:48,181 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 19:33:48,207 - INFO - Distance to the object: 1.16 meters (Object is between the cameras.)
+2024-10-19 19:33:48,207 - INFO - Image processing complete.
+2024-10-19 19:34:02,805 - INFO - Application closed.
+2024-10-19 19:47:29,487 - INFO - Application started.
+2024-10-19 19:47:39,069 - INFO - yolov5s model loaded successfully.
+2024-10-19 19:47:49,934 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 19:47:49,934 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 19:47:49,934 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 19:47:49,934 - INFO - Left image resolution: 640x480
+2024-10-19 19:47:49,934 - INFO - Right image resolution: 640x480
+2024-10-19 19:47:50,220 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 19:47:50,220 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 19:47:50,246 - INFO - Distance to the object: 1.16 meters (Object is between the cameras.)
+2024-10-19 19:47:50,246 - ERROR - Error during image processing: 'distance2'
+2024-10-19 19:48:06,664 - INFO - Application closed.
+2024-10-19 19:48:46,708 - INFO - Application started.
+2024-10-19 19:48:55,216 - INFO - yolov5s model loaded successfully.
+2024-10-19 19:49:03,728 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 19:49:03,728 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 19:49:03,728 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 19:49:03,728 - INFO - Left image resolution: 640x480
+2024-10-19 19:49:03,728 - INFO - Right image resolution: 640x480
+2024-10-19 19:49:03,996 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 19:49:03,996 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 19:49:04,029 - INFO - Distance to the object: 1.16 meters (Object is between the cameras.)
+2024-10-19 19:49:04,029 - INFO - Image processing complete.
+2024-10-19 19:49:13,129 - INFO - Application closed.
+2024-10-19 19:50:59,189 - INFO - Application started.
+2024-10-19 19:51:07,847 - INFO - yolov5s model loaded successfully.
+2024-10-19 19:51:17,209 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 19:51:17,209 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 19:51:17,209 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 19:51:17,209 - INFO - Left image resolution: 640x480
+2024-10-19 19:51:17,209 - INFO - Right image resolution: 640x480
+2024-10-19 19:51:17,410 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 19:51:17,410 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 19:51:17,439 - ERROR - Error during image processing: 'details'
+2024-10-19 19:51:58,515 - INFO - Application closed.
+2024-10-19 19:52:02,428 - INFO - Application started.
+2024-10-19 19:52:11,594 - INFO - yolov5s model loaded successfully.
+2024-10-19 19:52:19,434 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 19:52:19,434 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 19:52:19,441 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 19:52:19,441 - INFO - Left image resolution: 640x480
+2024-10-19 19:52:19,441 - INFO - Right image resolution: 640x480
+2024-10-19 19:52:19,635 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 19:52:19,635 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 19:52:19,657 - INFO - Distance to the object: 1.16 meters (Object is between the cameras.)
+2024-10-19 19:52:19,657 - INFO - Image processing complete.
+2024-10-19 19:52:49,121 - INFO - Application closed.
+2024-10-19 19:53:23,691 - INFO - Application started.
+2024-10-19 19:53:33,192 - INFO - yolov5s model loaded successfully.
+2024-10-19 19:53:40,580 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 19:53:40,580 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 19:53:40,580 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 19:53:40,595 - INFO - Left image resolution: 640x480
+2024-10-19 19:53:40,595 - INFO - Right image resolution: 640x480
+2024-10-19 19:53:40,834 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 19:53:40,834 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 19:53:40,865 - INFO - Distance to the object: 1.16 meters (Object is between the cameras.)
+2024-10-19 19:53:40,865 - INFO - Image processing complete.
+2024-10-19 19:55:41,918 - INFO - Application closed.
+2024-10-19 19:56:35,253 - INFO - Application started.
+2024-10-19 19:56:44,214 - INFO - yolov5s model loaded successfully.
+2024-10-19 19:57:27,343 - INFO - Selected images: ('C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg', 'C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg')
+2024-10-19 19:57:27,343 - INFO - Processing Left Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/left.jpg
+2024-10-19 19:57:27,343 - INFO - Processing Right Image: C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam/right.jpg
+2024-10-19 19:57:27,343 - INFO - Left image resolution: 640x480
+2024-10-19 19:57:27,343 - INFO - Right image resolution: 640x480
+2024-10-19 19:57:27,644 - INFO - Saved detected left image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_left.jpg
+2024-10-19 19:57:27,644 - INFO - Saved detected right image to C:/Users/Matanh/Naggles/vscode/pic/one_object/obj_between_cam\detected_images\detected_right.jpg
+2024-10-19 19:57:27,681 - INFO - Distance to the object: 1.16 meters (Object is between the cameras.)
+2024-10-19 19:57:27,681 - INFO - Image processing complete.
+2024-10-19 20:17:32,326 - INFO - Application closed.
