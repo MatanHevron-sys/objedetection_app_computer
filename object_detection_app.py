@@ -22,6 +22,7 @@ def main():
 
     logging.info("Application started.")
 
+
     # Initialize object detection
     try:
         object_detector = ObjectDetectionYOLOv5()
